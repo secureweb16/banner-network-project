@@ -1,0 +1,22 @@
+
+.dashboarddiv{
+	width:100%;	
+}
+
+.x_content.tblcontent{
+	overflow-x:scroll;
+}
+
+html body {
+    background: #0b1a31;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    color: #0b1a31;
+}
+.nav-md .container.body .col-md-3.left_col .nav_title,
+.nav-md .container.body .col-md-3.left_col .sidebar-footer {
+    background: transparent;
+}
+body .left_col {
+    background: #0b1a31;
+}

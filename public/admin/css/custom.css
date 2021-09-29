@@ -1,0 +1,9 @@
+.error-custom{
+	color: #fd3b4d;
+    background-color: #f1ecec;
+    margin: 5px 0px 0 0px;
+    padding: 5px 10px;
+    width: fit-content;
+    border-radius: 3px;
+    transition: 0.15s ease-out;
+}
